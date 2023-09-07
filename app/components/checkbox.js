@@ -1,5 +1,4 @@
-import React from "react";
- function Checkbox() {
+ const Checkbox = () => {
   return (
     <div>
       <label>
@@ -17,6 +16,6 @@ import React from "react";
       </label>
     </div>
   );
-}
+};
 
 export default Checkbox;
