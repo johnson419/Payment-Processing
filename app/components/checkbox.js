@@ -2,7 +2,7 @@
   return (
     <div>
       <label>
-        <input type="checkbox" class="checked:bg-blue-500" checked=""></input>
+        <input type="checkbox" class="form-checkbox checked:bg-blue-500"></input>
         <span className="ml-2 text-gray-800">M-pesa</span>
       </label>
 
